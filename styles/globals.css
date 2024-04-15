@@ -10,3 +10,8 @@
     color-scheme: dark;
 }
 
+span.correct {
+    background-color: green;
+}
+
+
